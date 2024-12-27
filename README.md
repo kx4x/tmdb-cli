@@ -61,14 +61,6 @@ A command-line tool to fetch movie information from The Movie Database (TMDB).
 - `npm run start`: Runs the compiled version
 - `npm run dev`: Runs directly with ts-node
 
-## 🤝 Contributing
-
-1. Fork the project
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the ISC License. See the `LICENSE` file for details.
